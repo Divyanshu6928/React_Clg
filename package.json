@@ -2,7 +2,6 @@
   "name": "react_ioi",
   "version": "1.0.0",
   "description": "Learning react",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -10,5 +9,8 @@
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react-dom": "^19.1.1"
   }
 }
